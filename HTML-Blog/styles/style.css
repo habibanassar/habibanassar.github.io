@@ -1,0 +1,14 @@
+body{background-color: rgba(243, 170, 170, 0.699);}
+
+p{font-family: Comic-Sans ms, sans-serif;
+    color: rgb(116, 113, 113);
+    padding-block: 0.5%;}
+
+.h1{text-align:center;
+    font-family: georgia, serif;
+    color: crimson;
+    font-size: 80px;
+    padding-block: 0.5%;}
+
+.homepage{font-size: 15px;
+        color: darkslateblue;}

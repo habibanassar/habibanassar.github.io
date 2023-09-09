@@ -1,0 +1,22 @@
+body{background-color: rgba(206, 157, 214, 0.699);}
+
+.h1{text-align:center;
+    font-family: georgia, serif;
+    color: rgb(220, 20, 200);
+    font-size: 75px;
+    padding-block: 2%;}
+
+.categoryArticles{background-color: rgb(223, 153, 212);
+        padding: 0.5%;}
+
+.h2{text-align:left;
+    font-family: georgia, serif;
+    color: rgb(98, 35, 104);
+    font-size: 30px;}
+
+p{font-family: Comic-Sans ms, sans-serif;
+    color: rgb(153, 70, 155);}
+
+.ul{font-family: Comic-Sans ms, sans-serif;
+    font-size: 15px;
+    color: rgb(194, 41, 194);}
